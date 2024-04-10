@@ -13,7 +13,7 @@ Every day brings new challenges and learning opportunities. I'm continuously enh
 ## 📫 Get In Touch!
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
 
-[image]("https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white")
+[image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
 <!--
