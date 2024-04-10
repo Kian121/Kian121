@@ -13,16 +13,4 @@ Every day brings new challenges and learning opportunities. I'm continuously enh
 ## 📫 Get In Touch!
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
 
-[image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-
-<!--
-**Kian121/Kian121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on terraform and docker
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-
-
--->
