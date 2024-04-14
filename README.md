@@ -7,8 +7,8 @@ I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastruct
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)](https://skillicons.dev)
 
 ## 💼 What I'm Working On
-- 🐳 **Docker:** Utilizing containerization to ensure consistency across various development and production environments.
-- 🌐 **Terraform:** Writing Infrastructure as Code (IaC) to automate and manage cloud services.
+-  **Docker:** Utilizing containerization to ensure consistency across various development and production environments.
+-  **Terraform:** Writing Infrastructure as Code (IaC) to automate and manage cloud services.
 
   
 ## 🌱 Learning & Growing
