@@ -13,6 +13,11 @@ Every day brings new challenges and learning opportunities. I'm continuously enh
 ## 🛠️ My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="(https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)" />
+  </a>
+</p>
 
 ## 📫 Get In Touch!
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
