@@ -8,7 +8,7 @@ I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastruct
 - 🌐 **Terraform:** Writing Infrastructure as Code (IaC) to automate and manage cloud services.
   
 ## 🛠️ My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)](https://skillicons.dev)
+[![My Skills]
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css" />
