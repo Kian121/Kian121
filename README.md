@@ -7,6 +7,9 @@ I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastruct
 - 🐳 **Docker:** Utilizing containerization to ensure consistency across various development and production environments.
 - 🌐 **Terraform:** Writing Infrastructure as Code (IaC) to automate and manage cloud services.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 ## 🌱 Learning & Growing
 Every day brings new challenges and learning opportunities. I'm continuously enhancing my skills in cloud architecture and looking forward to delving deeper into orchestration tools and cloud security best practices.
 
@@ -14,4 +17,4 @@ Every day brings new challenges and learning opportunities. I'm continuously enh
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
 
 
-![amazon-web-services-logo-svgrepo-com](https://github.com/Kian121/Kian121/assets/149825448/58c035a1-e986-490a-9c32-df66717b15ab)
+
