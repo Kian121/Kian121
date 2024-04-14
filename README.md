@@ -11,11 +11,7 @@ I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastruct
 Every day brings new challenges and learning opportunities. I'm continuously enhancing my skills in cloud architecture and looking forward to delving deeper into orchestration tools and cloud security best practices.
 
 ## 🛠️ My Toolbox
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)](https://skillicons.dev)
 
 ## 📫 Get In Touch!
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
