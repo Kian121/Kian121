@@ -1,4 +1,4 @@
-# 👋 Hi i'm Kian
+# 👋 Hello i'm Kian
 
 ## 🚀 About Me
 I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastructure and automation. My current focus is on leveraging the power of Docker and Terraform to build resilient, scalable, and efficient cloud-native solutions. I love exploring the endless possibilities these technologies offer in simplifying and streamlining deployment processes.
