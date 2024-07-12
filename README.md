@@ -14,7 +14,7 @@ I'm a passionate Cloud Engineer deeply engaged in the world of cloud infrastruct
 Every day presents fresh challenges and opportunities for learning. As I continue to enhance my skills in cloud architecture, I find myself increasingly excited to delve deeper into the expansive world of technology. My journey has taught me that the field is not just about mastering tools and techniques; it's also about understanding the ways in which these technologies can transform businesses and impact lives. Looking ahead, I'm eager to explore emerging technologies such as artificial intelligence and blockchain, and to leverage my growing expertise to solve complex problems and drive progress in this dynamic industry.
 
 ## 🛠️ My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,webflow,wordpress,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postgres,powershell,py,terraform,vscode,github,git,kubernetes,linux)](https://skillicons.dev)
 
 ## 📫 Get In Touch!
 Feel free to reach out to me for collaborations or just a chat about all things cloud. Let's build something amazing together!
